@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/cluster_needle.png</file>
+        <file>res/cluster_speed.png</file>
+    </qresource>
+</RCC>
